@@ -1,0 +1,26 @@
+
+def factorial(number):
+    # Cite: https://en.wikipedia.org/wiki/Factorial
+    
+    # if factorial is 0 or 1, just return 1
+    if number == 0 or number == 1:
+        return 1
+    
+    # https://www.geeksforgeeks.org/python-program-to-find-the-factorial-of-a-number-using-recursion/
+    return number * factorial(number - 1)
+
+# Cite: https://docs.python.org/3/tutorial/errors.html
+# for exception handling
+while True:
+    try:
+        user_number = int(input('Enter a number and I\'ll give you the factorial: '))
+        if user_number < 0:
+            raise ValueError('Factorials are only for non-negative integers.')
+        else:
+            user_factorial = factorial(user_number)
+            print(f'The factorial of {user_number} is {user_factorial}!')
+            break
+    except ValueError as e:
+        print(f'Error! Not a valid entry, only non-negative integers.')
+
+

@@ -1,0 +1,43 @@
+Matthew Valdez
+m@matthewvaldez.com | +1(206) 679-6820 | Seattle, WA
+
+Summary
+Experienced supply chain analyst with a strong background in order fulfillment, data/reporting, and continuous improvement. Proven track record of supporting business, IT, and customer needs to create effective solutions. Currently expanding expertise in advanced data analysis techniques.
+
+Relevant Skills
+* Order Management: Oracle EBS and other ERPs, managing >10k daily orders
+* Support: Nationwide network of >50 distribution centers and transportation carriers
+* Data Handling: Excel functions, DAX, M, Power Pivot/Query, SQL, ETL processes
+* Reporting and Visualization: Tableau, Power BI
+* Technical Skills: Python (Pandas), Alteryx
+* Customer Service: Experience supporting internal and external customers in a large organization, with a focus on efficiency, leadership, and advancing equity
+* Cross-functional Collaboration: Leading projects between IT and end-users
+
+Work Experience
+Starbucks Coffee Company, Seattle, WA
+Business Systems Analyst – Supply Chain (March 2016 – October 2022)
+* Supported a network of >50 distribution centers, managing >10k orders/day.
+* Led major projects including new distribution center launches and ERP migrations.
+* Improved system processes and developed data validation protocols using SQL and Python.
+* Acted as subject matter expert, bridging knowledge between customer service and supply chain teams.
+Starbucks Coffee Company, Seattle, WA
+Data Administrator – Supply Chain (December 2010 – March 2016)
+* Managed master data for an Oracle-based order-management system supporting >15,000 retail locations.
+* Utilized SQL for data validation and extraction.
+* Creating process documentation and user guides.
+Starbucks Coffee Company, Seattle, WA
+Logistics Services Rep – Supply Chain (October 2005 – December 2010)
+* Front-line support for 650 retail stores, resolving inventory and delivery issues.
+* Collaborated with distribution and supply chain partners to address short and long-term problems.
+ 
+Education
+Seattle Central College, Seattle, WA (in progress)
+* Data Analytics and Database Certificate Program (Expected graduation: December 2024)
+
+California State University, Chico, CA
+* Liberal Studies, BA Degree (Completed 2 years of Computer Science coursework)
+
+Links
+LinkedIn: https://www.linkedin.com/in/matthew-valdez-9ba7a948
+Portfolio: https://portfolio.matthewvaldez.com
+GitHub: https://github.com/mercurymlv/Samples
